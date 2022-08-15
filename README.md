@@ -9,6 +9,8 @@ Infection_Rates
 
 **Visualisation in Tableau**
 covid statistic visualisations
-
-Link to visualisation on Tableau
+-Link to visualisation on Tableau-
 https://public.tableau.com/views/Portfolioproject_16602262315850/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+**Correlations in Python**
+Finding correlations between variables
